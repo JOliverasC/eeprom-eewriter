@@ -8,11 +8,11 @@ In order to EEPROM program yo need
 
 4).-Windows PC (perhaps Mono may handle it in Linux) with https://github.com/JOliverasC/-eewriter program
 
-    Executable: https://github.com/JOliverasC/-eewriter/tree/master/EEWriter/EEWriter/bin/Debug/EEWriter.exe
+  Executable: https://github.com/JOliverasC/-eewriter/tree/master/EEWriter/EEWriter/bin/Debug/EEWriter.exe
     
 or
 
-    Build solution https://github.com/JOliverasC/-eewriter/tree/master/EEWriter/EEWriter.sln with SharpDevelop (Or M$ Visual Studio)
+  Build solution https://github.com/JOliverasC/-eewriter/tree/master/EEWriter/EEWriter.sln with SharpDevelop (Or M$ Visual Studio)
     
 
 ![ScreenShot capture](https://github.com/JOliverasC/-eewriter/blob/master/Docs/EEWriterSreenShot.png)
@@ -27,7 +27,7 @@ Select EEPROM Size
 
 a).-For Read EEPROM press Read button
 
-    You may Data/view the buffer 
+   You may Data/view the buffer 
 
    You may Verify with Verify button
    
