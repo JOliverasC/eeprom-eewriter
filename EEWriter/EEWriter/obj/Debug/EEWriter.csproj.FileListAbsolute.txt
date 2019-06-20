@@ -1,0 +1,8 @@
+C:\Users\Jordi\Documents\SharpDevelop Projects\EEWriter\EEWriter\bin\Debug\EEWriter.exe.config
+C:\Users\Jordi\Documents\SharpDevelop Projects\EEWriter\EEWriter\bin\Debug\EEWriter.exe
+C:\Users\Jordi\Documents\SharpDevelop Projects\EEWriter\EEWriter\bin\Debug\EEWriter.pdb
+C:\Users\Jordi\Documents\SharpDevelop Projects\EEWriter\EEWriter\obj\Debug\EEWriter.MainForm.resources
+C:\Users\Jordi\Documents\SharpDevelop Projects\EEWriter\EEWriter\obj\Debug\EEWriter.csproj.GenerateResource.Cache
+C:\Users\Jordi\Documents\SharpDevelop Projects\EEWriter\EEWriter\obj\Debug\EEWriter.exe
+C:\Users\Jordi\Documents\SharpDevelop Projects\EEWriter\EEWriter\obj\Debug\EEWriter.pdb
+C:\Users\Jordi\Documents\SharpDevelop Projects\EEWriter\EEWriter\obj\Debug\EEWriter.csprojResolveAssemblyReference.cache
